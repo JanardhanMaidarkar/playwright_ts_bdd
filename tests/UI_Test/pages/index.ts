@@ -1,2 +1,2 @@
-export * from './BasePage';
-export * from './ecomLoginPage';
+export * from "./BasePage";
+export * from "./ecomLoginPage";
